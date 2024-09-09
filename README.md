@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://hit.yhype.me/github/profile?user_id=28287783)
-![](https://komarev.com/ghpvc/?username=abhyudaya12&style=for-the-badge&base=100&color=red)
+![](https://komarev.com/ghpvc/?username=abhyudaya12&style=for-the-badge&base=1000&color=red)
